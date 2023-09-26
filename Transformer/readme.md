@@ -2,7 +2,12 @@
 
 ## Pytorch
 
-- [ ] 📢 Running: [transformer_tutorial.py](https://github.com/pytorch/tutorials/blob/main/beginner_source/transformer_tutorial.py)
+--------------
+> 📢 Running
+- [ ] [transformer_tutorial.py](https://github.com/pytorch/tutorials/blob/main/beginner_source/transformer_tutorial.py)
+- [ ] [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html#positional-encoding)
+----
+
 
 - [ ] [torch.nn.Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html)
 
