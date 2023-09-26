@@ -2,7 +2,7 @@
 
 ## Pytorch
 
-- [ ] [transformer_tutorial.py](https://github.com/pytorch/tutorials/blob/main/beginner_source/transformer_tutorial.py)
+- [ ] 📢 Running: [transformer_tutorial.py](https://github.com/pytorch/tutorials/blob/main/beginner_source/transformer_tutorial.py)
 
 - [ ] [torch.nn.Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html)
 
