@@ -5,6 +5,7 @@
 --------------
 > 📢 Running
 - [ ] [transformer_tutorial.py](https://github.com/pytorch/tutorials/blob/main/beginner_source/transformer_tutorial.py)
+- [ ] [translation_transformer.py](https://github.com/pytorch/tutorials/blob/main/beginner_source/translation_transformer.py)
 - [ ] [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html#positional-encoding)
 ----
 
