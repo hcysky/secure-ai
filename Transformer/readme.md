@@ -8,8 +8,11 @@
 - [ ] [translation_transformer.py](https://github.com/pytorch/tutorials/blob/main/beginner_source/translation_transformer.py)
 - [ ] [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html#positional-encoding)
 ----
+> annotated-transformer: GPU
+- [ ] [Code](https://github.com/harvardnlp/annotated-transformer/)
+- [ ] Description: [Old version](http://nlp.seas.harvard.edu/annotated-transformer/), [New version](https://nlp.seas.harvard.edu/2018/04/03/attention.html#positional-encoding)
 
-
+--------
 - [ ] [torch.nn.Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html)
 
 - [ ] [LANGUAGE MODELING WITH NN.TRANSFORMER AND TORCHTEXT](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
