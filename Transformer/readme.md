@@ -12,6 +12,18 @@
 - [ ] [Code](https://github.com/harvardnlp/annotated-transformer/)
 - [ ] Description: [Old version](http://nlp.seas.harvard.edu/annotated-transformer/), [New version](https://nlp.seas.harvard.edu/2018/04/03/attention.html#positional-encoding)
 
+----
+
+> 🚗 DETR(Detection Transformer): End-to-End Object Detection with Transformers
+
+- [ ] [GitHub](https://github.com/facebookresearch/detr)
+- [ ] [Related description](https://zhuanlan.zhihu.com/p/146065711)
+
+---------
+> ViT(vision_transformer)
+- [ ] [GitHub](https://github.com/google-research/vision_transformer)
+
+
 --------
 - [ ] [torch.nn.Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html)
 
