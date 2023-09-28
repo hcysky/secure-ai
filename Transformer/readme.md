@@ -6,6 +6,10 @@
 > 📢 Running
 - [ ] This tutorial only trains a ``nn.TransformerEncoder`` model on a language modeling task: [transformer_tutorial.py](https://github.com/pytorch/tutorials/blob/main/beginner_source/transformer_tutorial.py)
 - [ ] [translation_transformer.py](https://github.com/pytorch/tutorials/blob/main/beginner_source/translation_transformer.py)
+
+![image](https://github.com/hcysky/AI/assets/64795241/85056f79-9226-4257-86fc-1bbc59a77ffa)
+
+
 - [ ] [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html#positional-encoding)
 ----
 > annotated-transformer: GPU
