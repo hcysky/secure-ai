@@ -27,6 +27,12 @@
 > ViT(vision_transformer)
 - [ ] [GitHub](https://github.com/google-research/vision_transformer)
 
+---------
+> lite-transformer
+
+- [ ] [Paper](https://arxiv.org/pdf/2004.11886.pdf)
+- [ ] [GitHub](https://https://github.com/mit-han-lab/lite-transformer)
+
 
 --------
 - [ ] [torch.nn.Transformer](https://pytorch.org/docs/stable/generated/torch.nn.Transformer.html)
